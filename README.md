@@ -35,3 +35,4 @@ This is a minimal blog application built with Node.js and Express. It serves Mar
 ---
 
 This project is for demonstration purposes and can be extended with more features as needed.
+
